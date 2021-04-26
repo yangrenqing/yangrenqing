@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T11:31:18.463Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="ODMLcjb6Ws-PI3DWV_cP" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-26T11:33:09.969Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="yIuAPjDQaSZAx2PfKdFc" version="14.6.3" type="github">
   <diagram id="xY8YBow3k-NtbkBc99oK" name="Page-1">
     <mxGraphModel dx="946" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,6 +120,15 @@
         </mxCell>
         <mxCell id="ZrpwqUqZg5MJZn8UdTjy-41" value="&lt;pre style=&quot;background-color: rgb(43 , 43 , 43) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;font color=&quot;#629755&quot;&gt;&lt;i&gt;结束订单&lt;/i&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="288" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrpwqUqZg5MJZn8UdTjy-42" value="还未完成" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1040" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrpwqUqZg5MJZn8UdTjy-43" value="还未完成" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1080" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrpwqUqZg5MJZn8UdTjy-44" value="还未完成" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1120" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
