@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T05:49:29.145Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="7p8d7_BBLJp8Er6__YGX" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T06:04:29.217Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="nqPTEfLcAtoXahUymxVA" version="14.6.11" type="github">
   <diagram id="38xQF3u9Ne0ozrwfon8r" name="Page-1">
     <mxGraphModel dx="1773" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -377,6 +377,15 @@
         </mxCell>
         <mxCell id="EQ5FamxYBA6j0vkvO-mR-20" value="/system/pankit/company/contract/template/detail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-100" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EQ5FamxYBA6j0vkvO-mR-26" value="/system/pankit/company/anxinsign/create" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="20" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EQ5FamxYBA6j0vkvO-mR-27" value="&lt;h1&gt;商家是否主要信息完整判断机制&lt;/h1&gt;&lt;p&gt;companyLicenseCode&amp;nbsp; != null&amp;nbsp; 社会统一信用码&lt;/p&gt;&lt;p&gt;mobile != null 手机号&lt;/p&gt;&lt;p&gt;otherPhone != null 其他手机号&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="10" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EQ5FamxYBA6j0vkvO-mR-29" value="/system/pankit/company/anxinsign/create" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="693" y="150" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
