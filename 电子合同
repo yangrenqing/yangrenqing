@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T03:25:16.915Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="wXEgcFVAbAfLrJgN0lDS" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T05:45:25.236Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="4AOp24g_C7Q7Jql5BT90" version="14.6.11" type="github">
   <diagram id="38xQF3u9Ne0ozrwfon8r" name="Page-1">
     <mxGraphModel dx="1773" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -340,10 +340,16 @@
           <mxGeometry x="225" y="160" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EQ5FamxYBA6j0vkvO-mR-17" value="&lt;h1&gt;商家是否已开户判断机制&lt;/h1&gt;&lt;p&gt;anxinsign_user_id&amp;nbsp; != null&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="180" width="190" height="120" as="geometry" />
+          <mxGeometry x="-150" y="150" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EQ5FamxYBA6j0vkvO-mR-18" value="/system/pankit/company/detail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="140" width="40" height="20" as="geometry" />
+          <mxGeometry x="-90" y="110" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EQ5FamxYBA6j0vkvO-mR-19" value="/system/pankit/company/contract/template/list" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EQ5FamxYBA6j0vkvO-mR-20" value="/system/pankit/company/contract/template/detail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="300" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
