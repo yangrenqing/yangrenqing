@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T08:21:08.965Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="QPJa7ghdFczjIru1_9Tl" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-17T12:16:15.023Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="cayITtCdn3fktdR9CUnq" version="14.6.13" type="github">
   <diagram id="38xQF3u9Ne0ozrwfon8r" name="Page-1">
     <mxGraphModel dx="1739" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -426,7 +426,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kx0CdlxFW2MI8k8uz44--15" value="客户信息是否实名认证" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kx0CdlxFW2MI8k8uz44--15" value="客户信息三要素唯一" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="680" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kx0CdlxFW2MI8k8uz44--21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kx0CdlxFW2MI8k8uz44--19" target="kx0CdlxFW2MI8k8uz44--20">
@@ -494,6 +494,9 @@
         </mxCell>
         <mxCell id="kx0CdlxFW2MI8k8uz44--38" value="&lt;h1&gt;生成合同&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;text-align: center&quot;&gt;生成合同 /system/client/contract/create&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=right;" vertex="1" parent="1">
           <mxGeometry x="-400" y="788.75" width="460" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kx0CdlxFW2MI8k8uz44--39" value="&lt;h1&gt;客户信息三要素唯一&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;text-align: center&quot;&gt;客户信息三要素唯一 /system/client/consumer/threeElementFit&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=right;" vertex="1" parent="1">
+          <mxGeometry x="710" y="570" width="460" height="82.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
