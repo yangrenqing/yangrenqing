@@ -1,1 +1,152 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T02:05:04.330Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" version="14.6.13" etag="mj6SMF2ZyLwhCcNcGajW" type="github"><diagram id="rZliPikunTSAlQUoQNW-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-04T02:23:12.669Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="wq2zoLfhmltAtybegK9U" version="14.6.13" type="github">
+  <diagram id="rZliPikunTSAlQUoQNW-" name="Page-1">
+    <mxGraphModel dx="946" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="btrueRcSHVej-PvbhhIq-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="btrueRcSHVej-PvbhhIq-1" target="btrueRcSHVej-PvbhhIq-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-1" value="发起合同" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-3" value="此处不创建合同" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-5" value="填写签名人信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="220" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-7" value="选择签名人类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="260" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-8" value="企业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="310" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-10" value="个人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="310" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-13" value="手机号&lt;br&gt;身份证/社会统一信用码&lt;br&gt;名称" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="360" width="195" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="btrueRcSHVej-PvbhhIq-17" target="btrueRcSHVej-PvbhhIq-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-17" value="&lt;span&gt;根据合同模版渲染对应的签名人栏&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="btrueRcSHVej-PvbhhIq-18" target="btrueRcSHVej-PvbhhIq-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-18" value="&lt;span&gt;选择合同模版并填写合同名称&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="btrueRcSHVej-PvbhhIq-24" target="btrueRcSHVej-PvbhhIq-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-24" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="200" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-28" value="" style="shape=waypoint;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="480" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="btrueRcSHVej-PvbhhIq-30" target="btrueRcSHVej-PvbhhIq-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-30" value="生成合同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="btrueRcSHVej-PvbhhIq-32" target="btrueRcSHVej-PvbhhIq-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="btrueRcSHVej-PvbhhIq-32" target="btrueRcSHVej-PvbhhIq-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-32" value="分享/通知签署人" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="80" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-53" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="btrueRcSHVej-PvbhhIq-33" target="btrueRcSHVej-PvbhhIq-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="188" y="715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="btrueRcSHVej-PvbhhIq-33" target="btrueRcSHVej-PvbhhIq-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-33" value="签署人是否均签署" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="40" y="740" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-37" value="扫描二维码" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="263" y="530" width="197" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="btrueRcSHVej-PvbhhIq-39" target="btrueRcSHVej-PvbhhIq-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-46" value="没注册" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="btrueRcSHVej-PvbhhIq-45">
+          <mxGeometry x="-0.2088" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="btrueRcSHVej-PvbhhIq-39" target="btrueRcSHVej-PvbhhIq-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-48" value="已注册" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="btrueRcSHVej-PvbhhIq-47">
+          <mxGeometry x="-0.1667" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-39" value="是否已经注册" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="259" y="570" width="215" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="btrueRcSHVej-PvbhhIq-40" target="btrueRcSHVej-PvbhhIq-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-40" value="做认证并注册开户" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="550" y="577.5" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-44" value="授权并签署" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="263" y="670" width="207" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-49" value="" style="shape=waypoint;size=6;pointerEvents=1;points=[];fillColor=#ffffff;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="690" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-52" value="" style="shape=waypoint;size=6;pointerEvents=1;points=[];fillColor=#ffffff;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="650" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-54" value="生成合同" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="60" y="840" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-56" value="&lt;ul&gt;&lt;li&gt;此处创建合同并扣费&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="640" y="820" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="btrueRcSHVej-PvbhhIq-57" target="btrueRcSHVej-PvbhhIq-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="437" y="830" />
+              <mxPoint x="437" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-57" value="确认合同" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="263" y="740" width="347" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="btrueRcSHVej-PvbhhIq-61" value="" style="shape=waypoint;size=6;pointerEvents=1;points=[];fillColor=#ffffff;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="690" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
